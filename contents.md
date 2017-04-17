@@ -1,4 +1,7 @@
-[] ﻿What is the relationship between Node.js and V8? Can Node work without V8?
+[x] ﻿What is the relationship between Node.js and V8? Can Node work without V8?
+
+  > V8 is the JS engine inseide of `NodeJS`. This engine can parte and run your code.
+  > No. Without the V8 engine you cannot work because there is no JavaScript engine and 
 
 [] How come when you declare a global variable in any Node.js file it’s not really global to all modules?
 
